@@ -1,7 +1,8 @@
 # Thesis: A Versatile and Efficient Data Fusion Methodology for Heterogeneous Airborne LiDAR and Optical Imagery Data Acquired Under Unconstrained Conditions
 
 Matlab codes developed by TH Nguyen, Université Laval & IMT Atlantique
-(Compressed in a pwd-protected zip file. Contact the author or create an issue to obtain password.)
+
+(Compressed in a pwd-protected zip file. Contact the author or create an issue to request an usage.)
 
 ## Main folders:
 * **phd_dev:** common folder contains the coarse registration development, and other miscellaneous codes
